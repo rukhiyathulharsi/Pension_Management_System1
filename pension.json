@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "647b0a2d474a00e675fb5e70"
+  },
+  "adhaar": 1234,
+  "name": "Ram",
+  "DOB": "11/12/2000",
+  "pan": 7654,
+  "salaryEarned": 23000,
+  "alowance": 200,
+  "pensionclass": "self",
+  "bankName": "hdfc",
+  "accountNo": 34567,
+  "BankType": "Public"
+},{
+  "_id": {
+    "$oid": "647b0a7c474a00e675fb5e71"
+  },
+  "adhaar": 1233,
+  "name": "Raju",
+  "DOB": "11/10/2000",
+  "pan": 7652,
+  "salaryEarned": 22000,
+  "alowance": 300,
+  "pensionclass": "self",
+  "bankName": "hdfc",
+  "accountNo": 34234,
+  "BankType": "Public"
+},{
+  "_id": {
+    "$oid": "647b0ab5474a00e675fb5e72"
+  },
+  "adhaar": 9876,
+  "name": "Adama",
+  "DOB": "21/10/2000",
+  "pan": 7659,
+  "salaryEarned": 20000,
+  "alowance": 300,
+  "pensionclass": "family",
+  "bankName": "hdfc",
+  "accountNo": 34231,
+  "BankType": "Private"
+},{
+  "_id": {
+    "$oid": "647dbb7aa6d8cb1f3396d0d8"
+  },
+  "adhaar": 1256,
+  "name": "Robert",
+  "DOB": "11/10/2001",
+  "pan": 74652,
+  "salaryEarned": 22000,
+  "alowance": 300,
+  "pensionclass": "self",
+  "bankName": "hdfc",
+  "accountNo": 44234,
+  "BankType": "Private"
+},{
+  "_id": {
+    "$oid": "647dbba7a6d8cb1f3396d0d9"
+  },
+  "adhaar": 1346,
+  "name": "Tom Holland",
+  "DOB": "11/12/2001",
+  "pan": 74652,
+  "salaryEarned": 23000,
+  "alowance": 300,
+  "pensionclass": "self",
+  "bankName": "hdfc",
+  "accountNo": 4476,
+  "BankType": "Private"
+},{
+  "_id": {
+    "$oid": "647dbbf8a6d8cb1f3396d0da"
+  },
+  "adhaar": 1390,
+  "name": "John Abraham",
+  "DOB": "20/12/2001",
+  "pan": 90652,
+  "salaryEarned": 23000,
+  "alowance": 300,
+  "pensionclass": "self",
+  "bankName": "ICICI",
+  "accountNo": 5676,
+  "BankType": "Public"
+},{
+  "_id": {
+    "$oid": "647dbc37a6d8cb1f3396d0db"
+  },
+  "adhaar": 1330,
+  "name": "Issac Newton",
+  "DOB": "20/01/2001",
+  "pan": 80652,
+  "salaryEarned": 23000,
+  "alowance": 245,
+  "pensionclass": "self",
+  "bankName": "ICICI",
+  "accountNo": 5676,
+  "BankType": "Public"
+},{
+  "_id": {
+    "$oid": "647dbc81a6d8cb1f3396d0dc"
+  },
+  "adhaar": 1389,
+  "name": "Tom ",
+  "DOB": "20/11/2000",
+  "pan": 23452,
+  "salaryEarned": 23000,
+  "alowance": 245,
+  "pensionclass": "self",
+  "bankName": "ICICI",
+  "accountNo": 5906,
+  "BankType": "Public"
+},{
+  "_id": {
+    "$oid": "647dbcaea6d8cb1f3396d0dd"
+  },
+  "adhaar": 1370,
+  "name": "Kim ",
+  "DOB": "01/09/2000",
+  "pan": 2389,
+  "salaryEarned": 23000,
+  "alowance": 290,
+  "pensionclass": "self",
+  "bankName": "ICICI",
+  "accountNo": 5986,
+  "BankType": "Public"
+}]
